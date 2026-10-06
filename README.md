@@ -47,6 +47,9 @@ Num novo terminal, submeta um intervalo numérico para contagem de números prim
 ./client 127.0.0.1 8080 submit 1 1000000
 ```
 
+## Demonstração de Execução
+![Execução com Múltiplos Terminais](ex_mult_exec.png)
+
 ## Tratamento de Falhas e Verificações Implementadas
 Para assegurar a integridade da transmissão e a resiliência do sistema, foram incorporadas as seguintes verificações:
 
